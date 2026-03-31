@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Social Spark</string>
+    <string name="header_eyebrow">Daily connection boost</string>
+    <string name="header_title">Find a social spark for this moment</string>
+    <string name="header_subtitle">Type a time of day and get a small, meaningful idea to help you reach out.</string>
+    <string name="input_prompt">What part of the day is it?</string>
+    <string name="input_hint_text">Try Morning, Afternoon, or Evening.</string>
+    <string name="time_input_label">Enter time of day</string>
+    <string name="get_spark">Show my spark</string>
+    <string name="reset">Reset</string>
+    <string name="default_suggestion_title">Your spark will appear here</string>
+    <string name="default_suggestion_body">Enter Morning, Afternoon, or Evening to unlock two easy social ideas.</string>
+    <string name="empty_input_error">Please type a time of day first.</string>
+    <string name="morning_title">Morning spark</string>
+    <string name="morning_sparks">1. Send a “Good morning” text to a family member.\n2. Reach out to a colleague with a quick “Thank you.”</string>
+    <string name="afternoon_title">Afternoon spark</string>
+    <string name="afternoon_sparks">1. Share a funny meme or interesting link with a friend.\n2. Send a quick “Thinking of you” message.</string>
+    <string name="evening_title">Evening spark</string>
+    <string name="evening_sparks">1. Call a friend or relative for a 5-minute catch-up.\n2. Leave a thoughtful comment on a friend’s post.</string>
+    <string name="unknown_time_title">Try one of the main times</string>
+    <string name="unknown_time_message">Please enter Morning, Afternoon, or Evening so I can match you with the right social spark.</string>
+</resources>

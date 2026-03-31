@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.socialspark.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.example.socialspark.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sicelomahlangu/.gradle/daemon/9.0.0/com.example.socialspark.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "/Users/sicelomahlangu/.gradle/daemon/9.0.0/com.example.socialspark.app-main-6:/layout/activity_main.xml"
+    }
+]

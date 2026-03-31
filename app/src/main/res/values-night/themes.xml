@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SocialSpark" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/teal</item>
+        <item name="colorPrimaryVariant">@color/teal_700</item>
+        <item name="colorSecondary">@color/coral</item>
+        <item name="colorSecondaryVariant">@color/coral</item>
+        <item name="android:navigationBarColor">@color/navy</item>
+    </style>
+
+</resources>
